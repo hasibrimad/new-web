@@ -40,22 +40,22 @@ a{
 }
 
 .top{
-    background-image: url(images/header-bg.png);
+    background-image: url(Images/header-bg.png);
     background-repeat: no-repeat;
     background-size:1500px 650px;
 }
 .bio{
-    background-image: url(images/biography-bg.png);
+    background-image: url(Images/biography-bg.png);
     background-repeat: no-repeat;
     background-size:1500px 650px;
 }
 .third{
-    background-image: url(images/latest-work-bg.png);
+    background-image: url(Images/latest-work-bg.png);
     background-repeat: no-repeat;
     background-size:1500px 650px;
 }
 .fourth{
-    background-image: url(images/footer-bg.png);
+    background-image: url(Images/footer-bg.png);
     background-repeat: no-repeat;
     background-size:1500px 650px;
 }
@@ -89,7 +89,7 @@ a{
         padding: 1% 2%;
         border-radius: 10x;
         text-align: center;
-        margin: -5px 350px;
+        margin: -5px 300px;
         background-color: rgb(233, 55, 114);
         
         
